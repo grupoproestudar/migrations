@@ -1,1 +1,0 @@
-const databaseURL = "https://grupoproestudar-management.firebaseio.com"
