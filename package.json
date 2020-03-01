@@ -1,0 +1,21 @@
+{
+  "name": "migrations-fire-gpe",
+  "version": "1.0.0",
+  "description": "A script that helps import and export data in Cloud Firestore",
+  "main": "export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firestore",
+    "export",
+    "import"
+  ],
+  "author": "Jean C M Silva",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^5.13.1",
+    "js-yaml": "^3.12.1",
+    "json2csv": "^4.5.4"
+  }
+}
