@@ -2,5 +2,5 @@ node_modules
 serviceAccountKey.json
 firestore-export.json
 package-lock.json
-env.js
+.env
 feedbacks-*.json
